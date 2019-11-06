@@ -73,3 +73,9 @@ source.jdb
 docs/.md5
 pydeps.svg
 .dkdeps 
+
+# VS Code
+.vscode/
+
+#Pyenv 
+.python-version
